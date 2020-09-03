@@ -27,7 +27,7 @@ class MyClock(QWidget):
         self.mouseClick = False
         self.setWindowTitle("Timer")
         self.initWidgets()
-        self.resize(300,200)
+        self.resize(300,230)
         self.show()
         
 
