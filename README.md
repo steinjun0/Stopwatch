@@ -12,8 +12,8 @@ This has Start, Pause, Finish Buttons.
 ## Stopwatch_Twin.py
 ![Stopwatch_Twin](./img/Stopwatch_Twin.png)  
 This is Stopwatch which has not a Pause but Switch.  
-There is Red(Study), Blue(Rest) timer which are exclusive.  
-One starts, the other one stops.  
+
+There is Red(Study), Blue(Rest) timer which are exclusive. One starts, the other one stops.  
 And when the Finish Button clicked, both timer stop and Finish Button becomes Reset.  
   
 I hope this helps you guys!  
