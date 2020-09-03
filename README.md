@@ -19,6 +19,6 @@ And when the Finish Button clicked, both timer stop and Finish Button becomes Re
 I hope this helps you guys!  
 
   
-Ps. ShorKey
+Ps. ShortKey
 + Key 'Esc' is Exit
 + Key 'C' is switch
