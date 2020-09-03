@@ -37,10 +37,6 @@ class MyClock(QWidget):
         
         elif e.key() == Qt.Key_C:
             self.switchWatch()
-
-        elif e.key() == Qt.Key_X:
-            self.timer.stop()
-            self.stop = True
         
     
     def initWidgets(self):
